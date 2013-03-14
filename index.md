@@ -5,7 +5,7 @@ layout: default
 
 # Fang Ling Su
 
-Nach den unterschiedlichsten technologien wie plain Html, [Vimwiki][1] und
+Nach den unterschiedlichsten technologien wie plain Html, [Vimwiki][] und
 diversen CMS, bin ich jetzt doch zu github Pages gewechselt.
 
 [Projekte](/projects/index.html)
@@ -20,9 +20,9 @@ diversen CMS, bin ich jetzt doch zu github Pages gewechselt.
 
 ## Neue Seiten
 
-[Git-Cheat-Sheet](/software/git-cheat-sheet.html)
-: Ein Cheat-Sheet für einige anwendungsmöglichkeiten von git, die man mehr
-  oder weniger häufig brauch und deshalb schnell mal nachschlagen kann.
+[Vimp](/projects/vimp.html)
+: Vimp is a webkit based vim-like webbrowser and a rebuild of the vimprobable
+  from scratch
 
 [Dmenu](/software/dmenu.html)
 : Ein einfacher aber sehr vielseitig einsetztbarer Menügenerator und
@@ -33,4 +33,4 @@ diversen CMS, bin ich jetzt doch zu github Pages gewechselt.
 : Skurrile Code-Fragmente (zumeist [PHP](/software/php/index.html)) mit denen ich
   beinahe Täglich konfrontiert bin.
 
-[1]: http://code.google.com/p/vimwiki/ "Vimwiki is a personal wiki for Vim"
+[vimwiki]: http://code.google.com/p/vimwiki/ "Vimwiki is a personal wiki for Vim"
