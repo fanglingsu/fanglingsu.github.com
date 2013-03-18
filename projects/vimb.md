@@ -1,10 +1,10 @@
 ---
-title: Vimp Browser
+title: Vimb Browser
 layout: default
 ---
-[Home](/) > [Projekte](/projects/index.html) > Vimp Browser
+[Home](/) > [Projekte](/projects/index.html) > Vimb Browser
 
-# Vimp Browser
+# Vimb Browser
 
 In Summer 2011 I found the [vimprobable](vimprobable.html) project and began
 to make patches for it. This is a really nice project and a very powerful,
@@ -13,7 +13,7 @@ vim like browser) was the historic and monolithic code. This makes the hunting
 for Bugs and memory leaks to a hard job. 
 
 So I started to migrate the behaviour and look of vimprobable to a completely
-new written [code base][vimp] that consequently uses the high-level functions provided
+new written [code base][vimb] that consequently uses the high-level functions provided
 by the used libraries. Because I did know the features I'd like to have and
 that are known from vimprobable, I could implement the code to fit this
 features, even if the features will be implemented in future.
@@ -31,7 +31,7 @@ a consequent way like it's know from [Suckless][].
   - allow to inspect the current set values of variables `:set varname?`
   - allow to toggle boolean variables with `:set varname!`
 - keybindings for each browser mode assignable
-- the center of `vimp` are the commands that can be called from inputbox or
+- the center of `vimb` are the commands that can be called from inputbox or
   via keybinding
 - history for
   - commands
@@ -48,4 +48,4 @@ a consequent way like it's know from [Suckless][].
 - ssl validation against ca-certificate file
 
 [suckless]: http://suckless.org/
-[vimp]:     https://github.com/fanglingsu/vimp  "Vimp Browser"
+[vimb]:     https://github.com/fanglingsu/vimb  "Vimb Browser"

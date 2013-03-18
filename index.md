@@ -20,8 +20,8 @@ diversen CMS, bin ich jetzt doch zu github Pages gewechselt.
 
 ## Neue Seiten
 
-[Vimp](/projects/vimp.html)
-: Vimp is a webkit based vim-like webbrowser and a rebuild of the vimprobable
+[Vimb](/projects/vimb.html)
+: Vimb is a webkit based vim-like webbrowser and a rebuild of the vimprobable
   from scratch
 
 [Dmenu](/software/dmenu.html)

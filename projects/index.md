@@ -6,7 +6,7 @@ layout: default
 
 # Projekte
 
-- [Vimp](/projects/vimp.html) eine Neuimplementierung von Vimprobable, die
+- [Vimb](/projects/vimb.html) eine Neuimplementierung von Vimprobable, die
   noch einige Konzepte von [dwb][] erben wird. Dieses Projekt steckt noch in
   Kinderschuhen, aber ich denke bald kann man es schon einsetzen.
 - [Vimprobable](vimprobable.html) ist einer der schnellsten und
