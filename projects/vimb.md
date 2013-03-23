@@ -14,9 +14,9 @@ for Bugs and memory leaks to a hard job.
 
 So I started to migrate the behaviour and look of vimprobable to a completely
 new written [code base][vimb] that consequently uses the high-level functions provided
-by the used libraries. Because I did know the features I'd like to have and
-that are known from vimprobable, I could implement the code to fit this
-features, even if the features will be implemented in future.
+by the used libraries. Because I know the features I'd like to have and that
+are known from vimprobable, I could implement the code to fit this features,
+even if the features will be implemented in future.
 
 My concerns goes mainly to the code-base. I do not think about features at the
 moment, because the goal is to have a clean, easy to read and maintain code
