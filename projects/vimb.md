@@ -46,6 +46,9 @@ a consequent way like it's know from [Suckless][].
 - webinspector that opens ad the bottom of the browser window like in some
   other fat browsers
 - ssl validation against ca-certificate file
+- custom configuration files
+- embedding via xembed into other applications like [tabbed][]
 
 [suckless]: http://suckless.org/
 [vimb]:     https://github.com/fanglingsu/vimb  "Vimb Browser"
+[tabbed]:   http://tools.suckless.org/tabbed/
