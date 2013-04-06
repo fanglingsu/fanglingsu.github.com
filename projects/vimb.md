@@ -39,7 +39,7 @@ a consequent way like it's know from [Suckless][].
   - urls
 - completions for
   - commands
-  - urls
+  - urls (visited and bookmarked)
   - variable names of settings
 - hinting - marks links, form fields and other clickable elements to be
   clicked, opened or inspected
@@ -48,6 +48,7 @@ a consequent way like it's know from [Suckless][].
 - ssl validation against ca-certificate file
 - custom configuration files
 - embedding via xembed into other applications like [tabbed][]
+- tagged url bookmarks
 
 [suckless]: http://suckless.org/
 [vimb]:     https://github.com/fanglingsu/vimb  "Vimb Browser"
