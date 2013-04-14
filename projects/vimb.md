@@ -49,6 +49,7 @@ a consequent way like it's know from [Suckless][].
 - custom configuration files
 - embedding via xembed into other applications like [tabbed][]
 - tagged url bookmarks
+- open input or teaxteaeas with configurable external editor
 
 [suckless]: http://suckless.org/
 [vimb]:     https://github.com/fanglingsu/vimb  "Vimb Browser"
