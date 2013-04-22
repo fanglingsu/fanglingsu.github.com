@@ -31,7 +31,7 @@ dt a{font-weight:normal;}
 dd{float:left;width:68%;}
 img{border:none;max-width:100%;float:right;padding:0 0 1em 1em;}
 pre{line-height:1.7em;background:#f7f7f7;border:1px solid #ddd;border-radius:4px;box-shadow:2px 2px 5px #eee;padding:2px 4px;overflow:auto;}
-p>code{margin:0 2px;padding:0 3px;font-family:monospace;background-color:#f8f8f8;border:1px solid #eaeaea;border-radius:3px;}
+code{font-family:monospace;color:#777;}
 blockquote{border-left:4px solid #ddd;padding:0 1.5em;color:#777;}
 a,a:link{color:#4183C4;text-decoration:none;outline:none;}
 a[href^="http://"],a[href^="https://"]{padding-left:10px;background:url('data:image/gif;base64,R0lGODlhCAAIAPABAElJSf///yH5BAEAAAEALAAAAAAIAAgAAAIPjAMJd5q2HoQLsTpto84UADs=') left center no-repeat;}
