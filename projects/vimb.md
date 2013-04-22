@@ -41,6 +41,7 @@ a consequent way like it's know from [Suckless][].
   - commands
   - urls (visited and bookmarked)
   - variable names of settings
+  - search-queries
 - hinting - marks links, form fields and other clickable elements to be
   clicked, opened or inspected
 - webinspector that opens ad the bottom of the browser window like in some
