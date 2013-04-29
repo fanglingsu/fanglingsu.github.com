@@ -2,8 +2,16 @@ auto: true
 server: true
 pygments: true
 markdown: kramdown
+
+title: Fang Ling Su
+author:
+  name: Daniel Carl
+
 kramdown:
   auto_ids: true,
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 2..5
+
+exclude:
+  README.md

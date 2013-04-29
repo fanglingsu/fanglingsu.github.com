@@ -6,12 +6,13 @@ layout: default
 
 # Projekte
 
-- [Vimb](/projects/vimb.html) eine Neuimplementierung von Vimprobable, die
-  noch einige Konzepte von [dwb][] erben wird. Dieses Projekt steckt noch in
-  Kinderschuhen, aber ich denke bald kann man es schon einsetzen.
-- [Vimprobable](vimprobable.html) ist einer der schnellsten und
-  bedienerfreundlichsten Broser, die ich kenne.
-- [Nyancat-Console](nyancat-console.html) ist ein portierung des bekannten
-  Browsergames Nyancat lost in Space auf den Linux Terminal.
+- [Vimb][] lightweight webkit browser with vim-like keybinding and behaviour.
+- [Vimprobable][] ist einer der schnellsten und bedienerfreundlichsten Broser,
+  die ich kenne.
+- [Nyancat-Console][NCC] ist ein portierung des bekannten Browsergames Nyancat
+  lost in Space auf den Linux Terminal.
 
-[dwb]:  http://portix.bitbucket.org/dwb/
+[dwb]:         http://portix.bitbucket.org/dwb/
+[vimb]:        vimb.html "Vimb - Vim-like webkit browser"
+[vimprobable]: vimprobable.html
+[ncc]:         nyancat-console.html "Nyancat for Console"

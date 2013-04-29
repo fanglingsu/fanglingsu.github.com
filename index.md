@@ -20,7 +20,7 @@ diversen CMS, bin ich jetzt doch zu github Pages gewechselt.
 
 ## Neue Seiten
 
-[Vimb](/projects/vimb.html)
+[Vimb][]
 : Vimb is a webkit based vim-like webbrowser and a rebuild of the vimprobable
   from scratch
 
@@ -34,3 +34,4 @@ diversen CMS, bin ich jetzt doch zu github Pages gewechselt.
   beinahe Täglich konfrontiert bin.
 
 [vimwiki]: http://code.google.com/p/vimwiki/ "Vimwiki is a personal wiki for Vim"
+[vimb]:    projects/vimb.html "Vimb - Vim-like webkit browser"
