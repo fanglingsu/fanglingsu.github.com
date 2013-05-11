@@ -1,6 +1,6 @@
 *{margin:0;padding:0}
-html{background-color:#e0ddda;font-size:1em}
-body{color:#333;font-family:"Dejavu sans-serif",sans-serif;margin:0;padding:0;line-height:1.5em;font-size:0.9em}
+html{background-color:#e0ddda}
+body{color:#333;font-family:"Dejavu sans-serif",sans-serif;margin:0;padding:0;line-height:1.5em}
 div#content{background-color:#fff;margin:20px auto;padding:0.5em 0 0.2em;max-width:60em;min-width:50em;border:1px solid #ccc;border-radius:7px;box-shadow:4px 4px 10px #d0cdca}
 div.content{padding:2em;margin:0 20px;overflow:hidden}
 h1,h2,h3,h4,h5,h6{font-family:inherit;font-weight:normal;padding-bottom:0.2em;margin:1em 0 1em}
