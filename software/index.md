@@ -11,8 +11,7 @@ erledigen lässt.
 
 - [Vim](vim.html) der beste Editor der Welt, wenn man keine Lust auf einen
   Mausarm oder Karpaltunnelsyndrom hat.
-- [Vimb](/projects/vimb.html) another webkit base vim-like and lightweight
-  browser
+- [Vimb][] another webkit base vim-like and lightweight browser
 - [Zsh](shells.html) ist im Moment meine Liebste Shell, ist zwar sehr
   umfangreich, jedoch ist man mit ihr durch die netten Features schneller bei
   der Erledigung der alltäglichen Arbeiten.
@@ -24,3 +23,5 @@ erledigen lässt.
   Freude.
 - [Dmenu](dmenu.html) Der schnelle Programmstarter, den man flexibel auch für
   andere Aufgaben verwenden kann.
+
+[vimb]:    http://fanglingsu.github.io/vimb/ "Vimb - Vim-like webkit browser"

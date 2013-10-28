@@ -7,7 +7,6 @@ layout: default
 # Sitemap
 
 - [Projects](/projects/index.html)
-  - [Vimb](/projects/vimb.html "Vimb - Vim-like webkit browser")
   - [Vimprobable](/projects/vimprobable.html)
   - [Nyancat-Console](/projects/nyancat-console.html)
 - [Software](/software/index.html)

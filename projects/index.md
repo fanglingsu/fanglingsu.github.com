@@ -13,6 +13,6 @@ layout: default
   lost in Space auf den Linux Terminal.
 
 [dwb]:         http://portix.bitbucket.org/dwb/
-[vimb]:        vimb.html "Vimb - Vim-like webkit browser"
+[vimb]:        http://fanglingsu.github.io/vimb/ "Vimb - Vim-like webkit browser"
 [vimprobable]: vimprobable.html
 [ncc]:         nyancat-console.html "Nyancat for Console"
