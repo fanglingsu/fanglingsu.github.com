@@ -23,7 +23,7 @@ einfach in die Shell gepiped und ausgeführt.
 
 So sieht das Standard `dmenu_run` Wrapperscript aus.
 
-{% highlight sh %}
+```shell
 #!/bin/sh
 cachedir=${XDG_CACHE_HOME:-"$HOME/.cache"}
 if [ -d "$cachedir" ]; then
@@ -39,7 +39,7 @@ fi
         dmenu "$@" < "$cache"
     fi
 ) | ${SHELL:-"/bin/sh"} &
-{% endhighlight %}
+```
 
 
 ## Sortiere nach Häufigkeit
@@ -61,7 +61,7 @@ wird (META-p bei [xmonad](http://xmonad.org/)).
 
 Mein Script `dmenu_run_recent`.
 
-{% highlight sh %}
+```shell
 #!/bin/bash
 TERM="urxvtc -e"
 
@@ -91,7 +91,7 @@ case $run in
     *\;) exec $(echo $TERM ${run/;/}) ;;
     *)   exec $run ;;
 esac
-{% endhighlight %}
+```
 
 Durch das `dmenu ${1+"$@"})` werden die übergebenen Optionen direkt an `dmenu`
 weitergegeben, so dass man das Menü direkt anpassen kann.

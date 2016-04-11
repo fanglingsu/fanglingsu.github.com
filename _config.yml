@@ -1,6 +1,6 @@
-auto: true
-server: true
-pygments: true
+save: true
+lsi: false
+highlighter: rouge
 markdown: kramdown
 
 title: Fang Ling Su
@@ -13,5 +13,4 @@ kramdown:
   entity_output: as_char
   toc_levels: 2..5
 
-exclude:
-  README.md
+exclude: [README.md]
