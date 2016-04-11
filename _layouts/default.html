@@ -1,19 +1,17 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de" lang="de">
+<!DOCTYPE html>
+<html lang="en">
 <head>
 <title>{{ page.title }} - {{ site.title }}</title>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="author" content="{{ site.author.name }}" />
-<meta name="robots" content="index,follow" />
-<meta http-equiv="last-modified" content="{{ site.time | date: "%Y-%m-%d@%H:%M:%S %Z" }}" />
-<link rel="stylesheet" type="text/css" href="/theme/css/main.css" />
+<meta charset="UTF-8"/>
+<meta name="author" content="{{ site.author.name }}"/>
+<meta name="robots" content="noindex,follow"/>
+<link rel="stylesheet" type="text/css" href="https://fanglingsu.github.io/vimb/theme/main.css"/>
 </head>
 <body>
+<div id="page">
 <div id="content">
-<div class="content">
 {{ content }}
 </div>
-{% include footer.html %}
 </div>
 </body>
 </html>
