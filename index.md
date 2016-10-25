@@ -3,6 +3,6 @@ title:  Vim Like Browser
 layout: default
 ---
 # Vim Like Browser
-- [Vimb][] fast and lightweight vim like web browser based on the webkit web browser engine and the GTK toolkit
+[Vimb][] fast and lightweight vim like web browser based on the webkit web browser engine and the GTK toolkit
 
-[vimb]: https://fanglingsu.github.io/vimb/ "Vimb - Vim-like webkit browser"
+[vimb]: vimb/ "Vimb - Vim-like webkit browser"
