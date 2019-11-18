@@ -1,8 +1,8 @@
 ---
-title:  Vim Like Browser
+title:  Projects
 layout: default
 ---
-# Vim Like Browser
+# Projects
 [Vimb][] fast and lightweight vim like web browser based on the webkit web browser engine and the GTK toolkit
 
 [vimb]: vimb/ "Vimb - Vim-like webkit browser"
